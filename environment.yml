@@ -1,0 +1,14 @@
+name: gba-notebooks
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - notebook
+  - osmnx
+  - geopandas
+  - pandas
+  - shapely
+  - folium
+  - certifi
+  - pyarrow
