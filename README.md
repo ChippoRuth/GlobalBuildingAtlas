@@ -1,9 +1,10 @@
 # GlobalBuildingAtlas
 
 ## Introduction
-In this project, we provide the level of detail 1 (LoD1) data of buildings across the globe.
+In this project provides TUM GBA level of detail 1 (LoD1) and Polygon models, as well as comparison between GBA datasets with Google 2.5D datasets.(Notebook and report)
 
-A overview of the dataset is illustrated bellow:
+
+A overview of the GBA dataset is illustrated bellow:
 
 <img src="figures/overview.png" width="800">
 
